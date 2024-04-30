@@ -44,7 +44,7 @@
 
 ## WPS和Office
 - [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX)：永久激活码：`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
-- [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH)：无启动界面网络功能，office备用，轻量办公使用，仅96M,提取码 17Lp
+- [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH)：无启动界面网络功能，office备用，轻量办公使用，仅96M，提取码 `17Lp`
 - [Office Tool Plus](https://otp.landian.vip/zh-cn)：Office轻松部署（**推荐**）
 - [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html)：快速安装Office
 - [Office 2016精简版](https://www.ghxi.com/office4n1.html)，推荐安装，仅234M
