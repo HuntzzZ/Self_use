@@ -49,6 +49,9 @@
 - [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html)：快速安装Office
 - [Office 2016精简版](https://www.ghxi.com/office4n1.html)：推荐安装，仅234M
 
+## Windows美化
+- [枫の主题社](https://winmoes.com/)
+- 
   ***
 # 手动配置配置hosts教程
 - 每日更新的GitHub Hosts：[点击直达](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
@@ -81,6 +84,17 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 `ipconfig /flushdns`
 
 远程获取hosts文本自动修改本地方法见：[github](https://github.com/ineo6/hosts?tab=readme-ov-file#1-%E8%BF%9C%E7%A8%8Bhosts)
+
+# BT资源下载站点
+- [MINI4K](https://www.mini4k.com/)
+- [SeedHub](https://www.seedhub.cc/)
+- [音丝范](https://www.yfs365.com/)
+- [不太灵影视](https://www.2bt0.com/)
+- [磁力熊](https://www.cilixiong.com/)
+- [高清迅](https://xunlei8.cc/)
+- [byrut](https://thebyrut.org/)俄罗游戏资源
+- [SWITCH520](https://www.switch520.org/)
+
 
 # BitTorrent Tracker列表
 ## Tracker是什么?
