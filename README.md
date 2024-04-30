@@ -92,9 +92,14 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 - [不太灵影视](https://www.2bt0.com/)
 - [磁力熊](https://www.cilixiong.com/)
 - [高清迅](https://xunlei8.cc/)
-- [byrut](https://thebyrut.org/)俄罗游戏资源
+- [byrut](https://thebyrut.org/)-俄罗游戏资源
 - [SWITCH520](https://www.switch520.org/)
 
+## 下载工具
+- [qBittorrent（win mac）](https://www.fosshub.com/qBittorrent-old.html)
+- [BitComet (比特彗星)](https://www.bitcomet.com/en)
+- [Motrix](https://motrix.app)
+- 其他待更新
 
 # BitTorrent Tracker列表
 ## Tracker是什么?
