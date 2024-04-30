@@ -51,6 +51,10 @@
 
   ***
 # 手动配置配置hosts教程
+- 每日更新的GitHub Hosts：[点击直达](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
+- 项目地址：https://github.com/ineo6/hosts
+- 镜像地址：https://gitlab.com/ineo6/hosts
+
 ## MacOS
 hosts文件位置：/etc/hosts。
 MacOS系统下修改需要按照如下方式：
@@ -76,4 +80,23 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 
 `ipconfig /flushdns`
 
+远程获取hosts文本自动修改本地方法见：[github](https://github.com/ineo6/hosts?tab=readme-ov-file#1-%E8%BF%9C%E7%A8%8Bhosts)
+
+# BitTorrent Tracker列表
+## Tracker是什么?
+因为 BT 下载文件全都是其他用户上传给你的。
+
+所以 BT 下载速度就等于其他用户的上传速度。
+
+链接到的做种上传用户越多，你的下载速度就越快，而用户通过 Peer、DHT、Tracker 获得。
+> - 精选列表：(87 个)
+> - https://cf.trackerslist.com/best.txt
+> - 完整列表：(160 个)
+> - https://cf.trackerslist.com/all.txt
+> - HTTP(S) 列表：(58 个)
+> - https://cf.trackerslist.com/http.txt
+> - 无 HTTP 列表：(121 个)
+> - https://cf.trackerslist.com/nohttp.txt
+
+项目地址：https://github.com/XIU2/TrackersListCollection
 
