@@ -88,7 +88,8 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 
 远程获取hosts文本自动修改本地方法见：[github](https://github.com/ineo6/hosts?tab=readme-ov-file#1-%E8%BF%9C%E7%A8%8Bhosts)
 
-# BT资源下载站点
+# 资源下载
+## BT资源
 - [MINI4K](https://www.mini4k.com/)
 - [SeedHub](https://www.seedhub.cc/)
 - [音丝范](https://www.yfs365.com/)
@@ -97,6 +98,19 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 - [高清迅](https://xunlei8.cc/)
 - [byrut](https://thebyrut.org/)-俄罗游戏资源
 - [SWITCH520](https://www.switch520.org/)
+- [蜜柑计划](https://mikanime.tv/)
+- [Grab4K](https://www.grab4k.cn)
+- [飘花](https://www.piaohua.com/)
+- [悠悠MP4](https://www.uump4.cc/)
+- [6V电影](https://www.66s6.cc/)
+- [BT部落天堂](https://www.btbuluo.net/)
+- [迅雷电影天堂](https://www.xl720.com/)
+
+## 网盘资源
+- [玩偶哥哥](https://www.wogg.xyz/)
+- [4K影视小站](https://4kysxz.top/)
+- [网盘小站](https://wpxz.top/)
+- [HiFiNi](https://hifini.com/)-短剧
 
 ## 下载工具
 - [qBittorrent（win mac）](https://www.fosshub.com/qBittorrent-old.html)
@@ -121,4 +135,13 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 > - https://cf.trackerslist.com/nohttp.txt
 
 项目地址：https://github.com/XIU2/TrackersListCollection
+
+# 魔法工具
+- [v2rayNG 安卓版](https://github.com/2dust/v2rayNG/releases)
+- [v2rayN Win版](https://github.com/2dust/v2rayN/releases)
+- [v2rayU Mac版](https://github.com/yanue/V2rayU/releases/tag/v3.8.0)
+- [Clash For Android](https://github.com/Kr328/ClashForAndroid)
+- [Clash For Win](https://github.com/Fndroid/clash_for_windows_pkg)
+- [Clash For Win汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch)
+- Wrap+ Bot无限流量密钥:[获取地址](https://t.me/generatewarpplusbot)
 
