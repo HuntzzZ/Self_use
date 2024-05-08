@@ -55,7 +55,16 @@
   
 ## 清理工具
 - [HiBit Uninstaller](http://hibitsoft.ir/HiBitUninstaller/HiBitUninstaller-setup-3.2.10.exe)-官方免费、无需破解、没有弹窗、没有广告，纯粹的良心软件！体积小巧仅4M！强力卸载、清除垃圾、注册表备份扫描清理、服务、进程、启动项、计划任务……功能超乎想象！吊打国内管家类软件！
-  ***
+
+## 效率工具
+- [Everything](https://www.voidtools.com/zh-cn)-快速搜索文件神器（文件名检索）
+- [PanDownload](https://pandownload.net)-解决百度网盘没VIP下载慢的问题
+- [FastStone Image Viewer](https://www.ghxi.com/faststoneiw.html)-俗称黄金眼，最佳pc图片查看工具
+- [Anytxt](https://anytxt.cbewin.com/)-办公电脑适用，100+种常用文档全文搜索
+- [天若OCR](https://ocr.tianruo.net/)-文字识别工具，体积小，接口丰富，持续更新，值得一入
+- [ABBYY FineReader]()-PDF编辑神器，摆脱各种VIP,地址待更新
+- 
+
 # 手动配置配置hosts教程
 - 每日更新的GitHub Hosts：[点击直达](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
 - 项目地址：https://github.com/ineo6/hosts
@@ -87,6 +96,10 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 `ipconfig /flushdns`
 
 远程获取hosts文本自动修改本地方法见：[github](https://github.com/ineo6/hosts?tab=readme-ov-file#1-%E8%BF%9C%E7%A8%8Bhosts)
+
+
+
+***
 
 # 资源下载
 ## BT资源
@@ -135,6 +148,7 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 > - https://cf.trackerslist.com/nohttp.txt
 
 项目地址：https://github.com/XIU2/TrackersListCollection
+***
 
 # 魔法工具
 - [v2rayNG 安卓版](https://github.com/2dust/v2rayNG/releases)
@@ -144,4 +158,4 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 - [Clash For Win](https://github.com/Fndroid/clash_for_windows_pkg)
 - [Clash For Win汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch)
 - Wrap+ Bot无限流量密钥:[获取地址](https://t.me/generatewarpplusbot)
-
+***
