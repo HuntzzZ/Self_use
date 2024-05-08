@@ -18,7 +18,7 @@
 
 项目地址：https://github.com/lstprjct/IDM-Activation-Script
 
-其他工具：[Reset-Trail工具](Reset-Trail工具)
+其他工具：[Reset-Trail工具](https://tansuo.lanzoub.com/iq7ti1dw0ugd)
 ***
 
 # Windows装机
@@ -51,7 +51,10 @@
 
 ## Windows美化
 - [枫の主题社](https://winmoes.com/)
-- 
+- [致美化](https://zhutix.com/)
+  
+## 清理工具
+- [HiBit Uninstaller](http://hibitsoft.ir/HiBitUninstaller/HiBitUninstaller-setup-3.2.10.exe)-官方免费、无需破解、没有弹窗、没有广告，纯粹的良心软件！体积小巧仅4M！强力卸载、清除垃圾、注册表备份扫描清理、服务、进程、启动项、计划任务……功能超乎想象！吊打国内管家类软件！
   ***
 # 手动配置配置hosts教程
 - 每日更新的GitHub Hosts：[点击直达](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
