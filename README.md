@@ -43,14 +43,13 @@
 - [Windows update blocker 禁止Win系统更新](https://www.sordum.org/9470/windows-update-blocker-v1-8)
 
 ## WPS和Office
-- [FreeOffice](http://www.freeoffice.com/en/)-FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ![Freeware][Freeware Icon]
-- [LibreOffice](https://www.libreoffice.org/)-开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)![Freeware][Freeware Icon]
-- [Microsoft Office](http://www.office.com)-微软自己的生产力套件。
+- [FreeOffice](http://www.freeoffice.com/en/)-FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 
+- [LibreOffice](https://www.libreoffice.org/)-开源办公套件。
 - [NitroPDF](https://www.gonitro.com/pdf-reader)-您将获得的最佳PDF阅读器。
-- [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。 ![Freeware][Freeware Icon]
-- [OpenOffice](https://www.openoffice.org/)-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html)![Freeware][Freeware Icon]
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)-PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/sumatrapdfreader/sumatrapdf)![Freeware][Freeware Icon]
-- [WPS Office](https://www.wps.com/office-free)-完美的免费办公软件![Freeware][Freeware Icon]
+- [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。
+- [OpenOffice](https://www.openoffice.org/)-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)-PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。
+- [WPS Office](https://www.wps.com/office-free)-完美的免费办公软件
 - [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX)：永久激活码：`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 - [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH)：无启动界面网络功能，office备用，轻量办公使用，仅96M，提取码 `17Lp`
 - [Office Tool Plus](https://otp.landian.vip/zh-cn)：Office轻松部署（**推荐**）
@@ -62,15 +61,15 @@
 ## Windows美化
 - [枫の主题社](https://winmoes.com/)
 - [致美化](https://zhutix.com/)
-- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能。 ![Freeware][Freeware Icon]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - 使用开始菜单和资源管理器就像2000年一样。 [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
-- [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。![Freeware][Freeware Icon]
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - 从系统托盘按应用程序控制音量。[![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
-- [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。 ![Freeware][Freeware Icon]
-- [Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。 [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
-- [Search Deflector](https://github.com/spikespaz/search-deflector) - 一个小型程序，将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎。 [![Open-Source Software][OSS Icon]](https://github.com/spikespaz/search-deflector) ![Freeware][Freeware Icon]
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 使Windows任务栏透明。[![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - 使您可以更改Windows 10登录屏幕背景。  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
+- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能。
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) - 使用开始菜单和资源管理器就像2000年一样。
+- [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - 从系统托盘按应用程序控制音量。
+- [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。
+- [Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。
+- [Search Deflector](https://github.com/spikespaz/search-deflector) - 一个小型程序，将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎。
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 使Windows任务栏透明。
+- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - 使您可以更改Windows 10登录屏幕背景。
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - 如果使用多个监视器，则可以在每个监视器上显示单独的任务栏。
 
 ## 清理工具
@@ -90,16 +89,16 @@
 * [Windows绝赞应用 Windows Apps That Amaze Us](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details/zh-CN) 一些较好的WIndows软件，附有黑名单可参考。
 
 ## 压缩
-- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]
-- [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![Freeware][Freeware Icon]
-- [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。 ![Freeware][Freeware Icon]
-- [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。 ![Freeware][Freeware Icon]
-- [WinRAR](http://www.rarlab.com/) -  强大的归档管理器。 它可以备份您的数据并减小电子邮件附件的大小，解压缩RAR，ZIP和其他文件。
+- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。
+- [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。
+- [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。
+- [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。
+- [WinRAR](http://www.rarlab.com/) - 强大的归档管理器。 它可以备份您的数据并减小电子邮件附件的大小，解压缩RAR，ZIP和其他文件。
 
 ## 数据恢复
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - 综合和专业的硬盘恢复软件，可以恢复你的照片，视频，文件。
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - 拥有过滤工具，可用于将需恢复的大量数据排序。
-- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - 数据恢复及分区恢复功能。 ![Freeware][Freeware Icon]
+- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - 数据恢复及分区恢复功能。
 - [Recuva](https://www.piriform.com/recuva) - 快速，轻松地恢复已删除的文件。
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - 提供远程恢复选项, 可通过网络从另一台计算机恢复数据。
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件, 主要设计用于帮助恢复丢失的分区和/或使非引导磁盘重新启动。
