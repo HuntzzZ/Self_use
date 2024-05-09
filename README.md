@@ -49,6 +49,11 @@
 - [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html)：快速安装Office
 - [Office 2016精简版](https://www.ghxi.com/office4n1.html)：推荐安装，仅234M
 
+## 杂项
+
+* [显示隐藏文件Show hidden files](https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files) ~~[旧链](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)~~已失效
+* [快捷键列表list of Shortcut keys](http://imgur.com/a/TIXvm)
+
 ## Windows美化
 - [枫の主题社](https://winmoes.com/)
 - [致美化](https://zhutix.com/)
@@ -63,7 +68,13 @@
 - [Anytxt](https://anytxt.cbewin.com/)-办公电脑适用，100+种常用文档全文搜索
 - [天若OCR](https://ocr.tianruo.net/)-文字识别工具，体积小，接口丰富，持续更新，值得一入
 - [ABBYY FineReader]()-PDF编辑神器，摆脱各种VIP,地址待更新
-- 
+
+## 软件列表
+* [Windows最佳应用软件Best Windows Apps](https://github.com/stackia/best-windows-apps) - 来自Github的stackia推荐的软件。
+* [小众软件 - 我最喜爱的软件Windows版](http://love.appinn.com/) - 小众软件网站的推荐，共17类软件。
+* [Windows绝赞应用 Windows Apps That Amaze Us](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details/zh-CN) 一些较好的WIndows软件，附有黑名单可参考。
+
+
 
 # 手动配置配置hosts教程
 - 每日更新的GitHub Hosts：[点击直达](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
