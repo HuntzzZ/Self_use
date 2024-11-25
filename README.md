@@ -194,6 +194,7 @@ hosts文件位置：C:/windows/system32/drivers/etc/hosts。
 ***
 
 # 魔法工具
+- [FLClash全版本](https://github.com/chen08209/FlClash/releases)
 - [v2rayNG 安卓版](https://github.com/2dust/v2rayNG/releases)
 - [v2rayN Win版](https://github.com/2dust/v2rayN/releases)
 - [v2rayU Mac版](https://github.com/yanue/V2rayU/releases/tag/v3.8.0)
